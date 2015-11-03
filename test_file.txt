@@ -1,0 +1,3 @@
+ls -l
+ls -a
+echo "Echoing Terminal"
